@@ -1,0 +1,31 @@
+Liczba zadañ: 50
+Liczba przerw: 5
+Czas trwania operacji i przerw: 1-20
+Liczba instancji: 20
+
+Wielkoœæ populacji: 200
+Wspólczynnik mutacji: 0.1
+L. kandydatów do turnieju: 20
+L. zwyciêzców turnieju: 70
+Wspó³czynnik podzia³u: 0.5
+Liczba pokoleñ: 100
+919;665;27,63
+971;725;25,33
+867;668;22,95
+1020;779;23,62
+875;636;27,31
+1040;800;23,07
+939;705;24,92
+948;712;24,89
+986;739;25,05
+903;680;24,69
+858;654;23,77
+945;739;21,79
+955;755;20,94
+943;694;26,4
+999;757;24,22
+897;672;25,08
+954;743;22,11
+903;706;21,81
+866;702;18,93
+985;780;20,81
